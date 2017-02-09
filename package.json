@@ -1,0 +1,23 @@
+{
+  "name": "bottlevuepj",
+  "version": "0.0.1",
+  "description": "just a bottle.py vue.js test single page app",
+  "main": "app.py",
+  "scripts": {
+    "test": "Abrakadabra"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexta/bottleVuePJ.git"
+  },
+  "keywords": [
+    "bottlepy",
+    "vuepj"
+  ],
+  "author": "dexta.de",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dexta/bottleVuePJ/issues"
+  },
+  "homepage": "https://github.com/dexta/bottleVuePJ#readme"
+}
